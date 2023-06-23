@@ -1,6 +1,8 @@
 # ligh-dark-mode
 Ligh &amp; Dark Mode web page creation with JavaScript
 
+https://shawshanck.github.io/ligh-dark-mode/
+
 * Dark and Light Mode template.
 * JavaScript to control on changing theme, elements and colors.
 
